@@ -4,6 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-## Resources
+# Resources
 
-Your Resources page content here.
+TODO
