@@ -22,9 +22,9 @@ permalink: /projects/
 
 #### 1. Assessment of Log File-based IMRT QA
 
-<p>
-	<iframe src="https://drive.google.com/file/d/1EyrAqaIpL2HrERWqJGPp5oUEsccr6Wht/preview" width="100%" height="600px" style="border:0;"></iframe>
-</p>
+Here is the poster we had displayed at the 2024 AAPM Annual Meeting!
+
+<p><iframe src="https://drive.google.com/file/d/1EyrAqaIpL2HrERWqJGPp5oUEsccr6Wht/preview" width="100%" height="380px" style="border:0;"></iframe></p>
 
 ---
 
