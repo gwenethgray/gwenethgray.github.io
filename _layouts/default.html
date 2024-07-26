@@ -19,9 +19,9 @@ er<!doctype html>
     {% include head-custom.html %}
   </head>
   <body>
-      <div id="header" style="background-color:#353535!important;">
-        <nav style="background-color:#353535!important;">
-          <ul style="background-color:#353535!important;">
+      <div id="header">
+        <nav>
+          <ul>
             {% for link in site.nav_links %}
               <li><a href="{{ link.link }}">{{ link.name }}</a></li>
             {% endfor %}
@@ -36,7 +36,7 @@ er<!doctype html>
 
         {{ content }}
 
-        <div id="header">
+        <div id="title" style="top:initial!important;">
           <hr>
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
