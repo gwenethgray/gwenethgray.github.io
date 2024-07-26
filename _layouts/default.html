@@ -21,10 +21,10 @@
       <div id="header">
         <nav>
           <ul>
-            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
             {% for link in site.nav_links %}
               <li><a href="{{ link.link }}">{{ link.name }}</a></li>
             {% endfor %}
+            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
           </ul>
         </nav>
       </div><!-- end header -->
