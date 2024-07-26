@@ -1,1 +1,11 @@
+# Build settings
 theme: jekyll-theme-midnight
+
+# Navbar links
+nav_links:
+  - name: "Projects"
+    link: "/projects"
+  - name: "Resources"
+    link: "/resources"
+  - name: "Contact"
+    link: "/contact"
