@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
+# Active Projects
 
 ---
 
@@ -12,7 +12,7 @@ permalink: /projects/
 
 #### 1. CyDIR-MC
 
-<em>(WIP)</em> CyDIR-MC is a biological modeling framework for <b>Cy</b>toskeleton <b>d</b>ynamic <b>i</b>nstability and <b>r</b>epair following irradiation by ionizing sources. It will read damage files produced by TOPAS-nBio.
+<em>(WIP)</em>  CyDIR-MC is a Monte Carlo biological modeling framework for <b>Cy</b>toskeleton <b>d</b>ynamic <b>i</b>nstability and <b>r</b>epair following irradiation by ionizing sources. It will read damage files produced by TOPAS-nBio.
 
 #### 2. GUI for SAEROSA
 
@@ -20,9 +20,14 @@ permalink: /projects/
 
 ## Professional
 
-
+#### 1. Analyzing Delivery Log File-based IMRT QA Data
 
 ---
 
 ## Recreational
 
+#### 1. Food Theory
+
+Mathematical characterization of foods in chemical space and related physical transformations.
+
+#### 2. Simulation of MtG Limited Games
