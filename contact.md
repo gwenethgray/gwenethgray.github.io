@@ -20,8 +20,6 @@ permalink: /contact/
   <button type="submit">Send</button>
 </form>
 
-<br>
-
 Thanks!
 
 <br>
