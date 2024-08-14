@@ -11,12 +11,15 @@ permalink: /contact/
     Your email:
     <input type="email" name="email">
   </label>
-  <br>
+  <br><br>
   <label>
     What's up?
     <textarea name="message"></textarea>
   </label>
+  <br><br>
   <button type="submit">Send</button>
 </form>
 
-LinkedIn: [https://www.linkedin.com/in/frejak-r/](https://www.linkedin.com/in/gwenethgray/)
+<br>
+
+<p>LinkedIn: [https://www.linkedin.com/in/frejak-r/](https://www.linkedin.com/in/gwenethgray/)</p>
