@@ -28,6 +28,10 @@ Here is the poster we had displayed at the 2024 AAPM Annual Meeting!
 
 <p><iframe src="https://drive.google.com/file/d/1EyrAqaIpL2HrERWqJGPp5oUEsccr6Wht/preview" width="100%" height="380px" style="border:0;"></iframe></p>
 
+#### 2. Desktop Utilities for Medical Physics QA
+
+Small-scale tools facilitating monthly TG-142 linac QA, patient-specific IMRT QA, and 4DCT resorting.
+
 ---
 
 ## Personal
