@@ -36,10 +36,10 @@ Here is the poster we had displayed at the 2024 AAPM Annual Meeting!
 
 Algebraic topological characterization of foods in chemical space and related physical transformations; a community effort.
 
-#### 2. Monte Carlo Balance Analysis of Magic: the Gathering Sets
+#### 2. Balance Analysis of Magic: the Gathering Sets
 
-Python implementation of the [official game rules](https://media.wizards.com/2024/downloads/MagicCompRules%2004102024.txt) with toolkit for simulating games between agents and assessing the balance of both official and custom expansion sets.
+Python implementation of the [official game rules](https://media.wizards.com/2024/downloads/MagicCompRules%2004102024.txt) with a toolkit for simulating games between agents and assessing the balance characteristics of both official and custom sets for Limited formats. Intended to facilitate design of fan-made card sets.
 
 #### 3. FarkleBot
 
-Python implementation of the dice game [Farkle](https://github.com/gwenethgray/Farkle) (or "Ten Thousand") with automated players who use strategies derived from Monte Carlo analysis.
+Python implementation of the dice game [Farkle](https://github.com/gwenethgray/Farkle) (or "Ten Thousand") with automated players who use strategies derived from Monte Carlo analysis. Includes a simple CLI for an arbitrary number of human players to play with an arbitrary number of bots.
