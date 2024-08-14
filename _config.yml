@@ -7,5 +7,7 @@ nav_links:
     link: "/"
   - name: "Projects"
     link: "/projects"
+  - name: "Contact"
+    link: "/contact"
   - name: "Resources"
     link: "/resources"
