@@ -38,7 +38,7 @@ Algebraic topological characterization of foods in chemical space and related ph
 
 #### 2. Balance Analysis of Magic: the Gathering Sets
 
-Python implementation of the [official game rules](https://media.wizards.com/2024/downloads/MagicCompRules%2004102024.txt) with a toolkit for simulating games between agents and assessing the balance characteristics of both official and custom sets for Limited formats. Intended to facilitate design of fan-made card sets.
+Python implementation of the [official game rules](https://media.wizards.com/2024/downloads/MagicCompRules%2004102024.txt) with a toolkit for simulating games between agents and assessing the balance characteristics of both official and custom sets for Limited formats. Intended to facilitate the design of fan-made card sets and Cube pools.
 
 #### 3. FarkleBot
 
