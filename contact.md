@@ -21,7 +21,6 @@ permalink: /contact/
 </form>
 
 
-Thanks!
 
 <br>
 
