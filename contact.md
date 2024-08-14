@@ -11,6 +11,7 @@ permalink: /contact/
     Your email:
     <input type="email" name="email">
   </label>
+  <br>
   <label>
     What's up?
     <textarea name="message"></textarea>
