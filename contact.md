@@ -22,4 +22,4 @@ permalink: /contact/
 
 <br>
 
-LinkedIn: [https://www.linkedin.com/in/frejak-r/](https://www.linkedin.com/in/gwenethgray/)
+LinkedIn: [https://www.linkedin.com/in/gwenethgray/](https://www.linkedin.com/in/gwenethgray/)
