@@ -8,17 +8,21 @@ permalink: /contact/
 
 <form action="https://formspree.io/f/xyzgjqeq" method="POST">
   <label>
-    Your email:
+    Your email:<br>
     <input type="email" name="email" style="width:250px!important;">
   </label>
   <br><br>
   <label>
-    What's up?
+    What's up?<br>
     <textarea name="message" style="height:220px!important;width:380px!important;"></textarea>
   </label>
   <br><br>
   <button type="submit">Send</button>
 </form>
+
+<br>
+
+Thanks!
 
 <br>
 
