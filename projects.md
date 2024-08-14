@@ -34,7 +34,7 @@ Here is the poster we had displayed at the 2024 AAPM Annual Meeting!
 
 #### 1. Mathematical Physics of Food
 
-Algebraic topological characterization of foods in chemical space and related physical transformations; a community effort.
+Algebraic topological characterization of foods in chemical space and the groups of smooth physical transformations involved in traditional (or experimental) food preparation; a community effort.
 
 #### 2. Balance Analysis of Magic: the Gathering Sets
 
