@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-<p><img src="/img/azula-removebg-preview.png" alt="Azula the Cat"></p>
+<p><img src="/img/azula.png" alt="Azula the Cat"></p>
 
 ---
 
