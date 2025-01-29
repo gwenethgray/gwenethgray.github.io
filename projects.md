@@ -31,19 +31,3 @@ Here is the poster we had displayed at the 2024 AAPM Annual Meeting!
 #### 2. Desktop Utilities for Medical Physics QA
 
 Small-scale tools facilitating monthly TG-142 linac QA, patient-specific IMRT QA, physics equipment calibration, and 4DCT resorting.
-
----
-
-## Personal
-
-#### 1. Mathematical Physics of Food
-
-Algebraic topological characterization of foods in chemical space and the groups of smooth physical transformations involved in traditional (or experimental) food preparation; a community effort.
-
-#### 2. Balance Analysis of Magic: the Gathering Sets
-
-Python implementation of the [official game rules](https://media.wizards.com/2024/downloads/MagicCompRules%2004102024.txt) with a toolkit for simulating games between agents and assessing the balance characteristics of both official and custom sets for Limited formats. Intended to facilitate the design of fan-made card sets and Cube pools.
-
-#### 3. FarkleBot
-
-Python implementation of the dice game [Farkle](https://github.com/gwenethgray/Farkle) (or "Ten Thousand") with automated players who use strategies derived from Monte Carlo analysis. Includes a simple CLI for an arbitrary number of human players to play with an arbitrary number of bots.
